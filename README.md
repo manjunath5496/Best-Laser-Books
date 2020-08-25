@@ -69,6 +69,19 @@ And Applications</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(30).pdf" style="text-decoration:none;">Laser Physics: From Principles to Practical Work in the Lab</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(31).pdf" style="text-decoration:none;">Lasers in Restorative Dentistry</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(32).pdf" style="text-decoration:none;">The pre-inflationary dynamics of loop quantum cosmology: Confronting quantum gravity with observations</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(31).pdf" style="text-decoration:none;">Organic Lasers: Fundamentals, Developments, and Applications</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(32).pdf" style="text-decoration:none;">Physics of Laser Materials Processing: Theory and Experiment</a></li> 
+    
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(33).pdf" style="text-decoration:none;">Laser-Based Optical Detection of Explosives</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(34).pdf" style="text-decoration:none;">The CO<sub>2</sub> Laser</a></li> 
+      
+       
+<li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(35).pdf" style="text-decoration:none;">Raman Fiber Lasers</a></li> 
+    
+    
+    
+    
+    
+    
+    
 </ul>
