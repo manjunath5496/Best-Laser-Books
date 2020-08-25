@@ -64,9 +64,10 @@ Industrial Laser Welding And Cutting</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(28).pdf" style="text-decoration:none;">Step by Step Laser in
 Ophthalmology</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(29).pdf" style="text-decoration:none;">On the Uniqueness of Kinematics of Loop Quantum Cosmology</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(29).pdf" style="text-decoration:none;">Laser Beams: Theory, Properties
+And Applications</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(30).pdf" style="text-decoration:none;">An Extension of the Quantum Theory of Cosmological Perturbations to the Planck Era</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(30).pdf" style="text-decoration:none;">Laser Physics: From Principles to Practical Work in the Lab</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(31).pdf" style="text-decoration:none;">Lasers in Restorative Dentistry</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Best-Laser-Books/blob/master/laser(32).pdf" style="text-decoration:none;">The pre-inflationary dynamics of loop quantum cosmology: Confronting quantum gravity with observations</a></li> 
